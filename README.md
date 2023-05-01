@@ -1,7 +1,7 @@
-[![MasterHead](https://www.dropbox.com/s/ef3msggf356f7gz/Demo%20Project_800x250%20Mobile%20banner%20%283%29.gif?dl=0)]
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Sandun Bandara</h1>
 <h3 align="center">Software Engineering Student with Strong Skills in Data Structures and Algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
+<img align="right" alt="Coding" width="400" hight="370" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 - 🔭 I’m currently working on **Five Games (Data structure And Algorithm Project)**
 
@@ -11,8 +11,18 @@
 
 - 📫 How to reach me **Devocksandu99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">About Me:</h3>
+<p align="left">As a first-year undergraduate, I'm working toward a Bachelor of Science (BSc) in Computing with Honors in Software Engineering. I have a solid understanding of data structures and algorithms and am really passionate about software development.
+
+I have an outstanding academic record, having achieved the top spot in my batch for the Diploma in Software Engineering course at NIBM with a perfect 4.0 GPA. I have also earned distinction as the top student in the Software Engineering certificate course.
+
+Alongside my academic achievements, I have gained valuable experience as a trainee software engineer at Platform One, where I honed my skills in developing robust and efficient software solutions. I received a glowing comment from my tech lead, which highlighted my commitment to delivering high-quality software solutions. 
+ ![image](https://user-images.githubusercontent.com/94672855/235516307-1b4cc2bf-2f5e-490b-be0a-c400a6b1237c.png)
+
+
+Beyond my academic pursuits, I am a national champion gymnast, having won several competitions at the highest level. This experience has instilled in me the discipline, dedication, and determination necessary to succeed in any endeavor.
+
+I am thrilled to continue my journey in software development and am eager to contribute to the open-source community through my GitHub profile
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
