@@ -16,9 +16,7 @@
 
 I have an outstanding academic record, having achieved the top spot in my batch for the Diploma in Software Engineering course at NIBM with a perfect 4.0 GPA. I have also earned distinction as the top student in the Software Engineering certificate course.
 
-Alongside my academic achievements, I have gained valuable experience as a trainee software engineer at Platform One, where I honed my skills in developing robust and efficient software solutions. I received a glowing comment from my tech lead, which highlighted my commitment to delivering high-quality software solutions. 
- ![image](https://user-images.githubusercontent.com/94672855/235516307-1b4cc2bf-2f5e-490b-be0a-c400a6b1237c.png)
-
+Alongside my academic achievements, I have gained valuable experience as a trainee software engineer at Platform One, where I honed my skills in developing robust and efficient software solutions.
 
 Beyond my academic pursuits, I am a national champion gymnast, having won several competitions at the highest level. This experience has instilled in me the discipline, dedication, and determination necessary to succeed in any endeavor.
 
