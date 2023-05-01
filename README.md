@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://www.dropbox.com/s/ef3msggf356f7gz/Demo%20Project_800x250%20Mobile%20banner%20%283%29.gif?dl=0)]
 <h1 align="center">Hi 👋, I'm Sandun Bandara</h1>
 <h3 align="center">Software Engineering Student with Strong Skills in Data Structures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
