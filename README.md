@@ -12,7 +12,7 @@
 - 📫 How to reach me **Devocksandu99@gmail.com**
 
 <h3 align="left">About Me:</h3>
-<p align="left">As a first-year undergraduate, I'm working toward a Bachelor of Science (BSc) in Computing with Honors in Software Engineering. I have a solid understanding of data structures and algorithms and am really passionate about software development.
+<p align="left">As a Third-year undergraduate, I'm working toward a Bachelor of Science (BSc) in Computing with Honors in Software Engineering. I have a solid understanding of data structures and algorithms and am really passionate about software development.
 
 I have an outstanding academic record, having achieved the top spot in my batch for the Diploma in Software Engineering course at NIBM with a perfect 4.0 GPA. I have also earned distinction as the top student in the Software Engineering certificate course.
 
