@@ -1,4 +1,4 @@
-[![MasterHead(https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Sandun Bandara</h1>
 <h3 align="center">Software Engineering Student with Strong Skills in Data Structures and Algorithms</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
